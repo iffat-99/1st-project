@@ -1,0 +1,18 @@
+
+.headline
+{
+    text-align: center;
+}
+.container
+{
+    display: flex;
+    justify-content: space-between;
+}
+.box
+{
+    width: 20%;
+    padding: 30px;
+    border: 1px solid;
+    background-color: rgb(131, 81, 179);
+    text-align: center;
+}
